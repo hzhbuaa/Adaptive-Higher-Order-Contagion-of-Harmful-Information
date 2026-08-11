@@ -1,6 +1,6 @@
 # Adaptive Higher-Order Spreading
 
-Core code for higher-order SIS dynamics with group dissolution and individual rewiring.
+Core code for higher-order SIS dynamics with group dissolution and individual rewiring, arxiv: https://arxiv.org/abs/2608.07874.
 
 ## Files
 
