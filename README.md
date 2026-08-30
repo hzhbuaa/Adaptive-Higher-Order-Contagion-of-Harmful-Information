@@ -1,6 +1,6 @@
 # Adaptive Higher-Order Spreading
 
-Core code for higher-order SIS dynamics with group dissolution and individual rewiring, arxiv: https://arxiv.org/abs/2608.07874.
+Core code for paper "Control of Harmful Information Spreading on Adaptive Higher-Order Networks via Group Dissolution", arxiv: https://arxiv.org/abs/2608.07874.
 
 ## Files
 
