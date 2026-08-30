@@ -1,6 +1,6 @@
 # Adaptive Higher-Order Spreading
 
-Core code for paper "Control of Harmful Information Spreading on Adaptive Higher-Order Networks via Group Dissolution", arxiv: https://arxiv.org/abs/2608.07874.
+Code for paper "Control of Harmful Information Spreading on Adaptive Higher-Order Networks via Group Dissolution", arxiv: https://arxiv.org/abs/2608.07874.
 
 ## Files
 
